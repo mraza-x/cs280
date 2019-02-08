@@ -1,8 +1,3 @@
-/*  Mohammed Raza
-    CSC133, Section - 1, Spring 2010
-    Lab Assignment No 5, Program # 1
-    3/25/10
-*/
 
 #include <iostream>
 #include <iomanip>
